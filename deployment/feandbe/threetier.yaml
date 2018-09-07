@@ -79,7 +79,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: "mohanraz81/synfrontend3108"
+        image: "amitkumarooo7/frontend"
         ports:
           - name: http
             containerPort: 80
